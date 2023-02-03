@@ -4,7 +4,7 @@ Matplotlib
 
 This project utilizes:
 
-- historgrams
+- histograms
 - line graphs
 - scatter plots
 - bar graphs
