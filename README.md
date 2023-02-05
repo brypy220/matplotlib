@@ -2,7 +2,7 @@ Matplotlib
 ====================
 
 
-This project utilizes:
+This project, via Jupyter Notebook, utilizes:
 
 - histograms
 - line graphs
